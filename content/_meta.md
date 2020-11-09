@@ -1,8 +1,8 @@
 ---
-Logo: image/fjäril.png
-Tagline: My portfolio.
+Logo: image/letter-E.png
+Tagline: För design kursen.
 Social:
     - title: Link till sidans github repo.
-      url: https://github.com/dbwebb-se/design-v3
+      url: https://github.com/missdyke94/design
       icon: github
 ---
